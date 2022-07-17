@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on NopNop Labs</title>
+    <link>https://nopnoplabs.com/tags/git/</link>
+    <description>Recent content in git on NopNop Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://nopnoplabs.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to NetOps</title>
+      <link>https://nopnoplabs.com/courses/introtonetops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nopnoplabs.com/courses/introtonetops/</guid>
+      <description> modbus.pcap mqtt2.pcap Part 1 Part one info
+params: CopyrightHTML: &amp;quot;Copyright &amp;amp;#xA9; 2013 John Doe. All Rights Reserved.&amp;quot; TwitterUser: &amp;quot;spf13&amp;quot; SidebarRecentLimit: 5 </description>
+    </item>
+    
+  </channel>
+</rss>
